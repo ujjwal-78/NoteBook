@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Play:wght@700&family=Train+One&family=Rajdhani:wght@500&display=swap");
+
+body {
+  font-family: "Rajdhani", sans-serif;
+}
+
+h2 {
+  font-weight: 600;
+}
+
+.navbar {
+  line-height: 31px;
+}
+
+#cname {
+  font-family: "Play", sans-serif;
+  color: #007bff;
+  font-size: 46px;
+}
+
+.btn-outline-info {
+  color: #ffffff;
+  border-color: #007bff;
+}
+
+.btn-outline-info:hover {
+  background: #007bff;
+}
+
+.card , .noteCard{
+  background: rgba(226, 226, 226, 0.267);
+}
