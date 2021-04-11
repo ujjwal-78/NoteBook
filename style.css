@@ -27,6 +27,7 @@ h2 {
   background: #007bff;
 }
 
-.card , .noteCard{
+.card,
+.noteCard {
   background: rgba(226, 226, 226, 0.267);
 }
